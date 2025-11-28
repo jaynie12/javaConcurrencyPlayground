@@ -9,16 +9,16 @@ LOCKED DOWN SCOPE - NO scope creep allowed!!
 
 
 
-Basic Thread Demo: Shows thread creation, naming, sleeping, and joining.
+**Basic Thread Demo:** Shows thread creation, naming, sleeping, and joining.
 
-Race Condition Demo:  A shared counter modified by multiple threads.
+**Race Condition Demo:**  A shared counter modified by multiple threads.
 
-Users see incorrect results when unsynchronised vs synchronised:  Producer–Consumer Demo (BlockingQueue)
+**Users see incorrect results when unsynchronised vs synchronised:**  Producer–Consumer Demo (BlockingQueue)
 
-Classic example showing safe thread communication:  Producers generate tasks, consumers process them.
+**Classic example showing safe thread communication:**  Producers generate tasks, consumers process them.
 
-Thread Pool Demo (Executors + Futures):  Demonstrates submitting multiple tasks to a fixed thread pool.
+**Thread Pool Demo (Executors + Futures):**  Demonstrates submitting multiple tasks to a fixed thread pool.
 
-Shows how results are collected with Future or Callable: Parallel Computation Demo (Parallel Array Sum)
+**Shows how results are collected with Future or Callable:** Parallel Computation Demo (Parallel Array Sum)
 
-Splits a large array into chunks and uses multiple threads to compute sum:  Compares performance vs single-threaded.
+**Splits a large array into chunks and uses multiple threads to compute sum: ** Compares performance vs single-threaded.
